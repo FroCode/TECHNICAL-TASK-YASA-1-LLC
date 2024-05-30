@@ -1,5 +1,9 @@
 # YASA-1 E-Commerce Data Analysis and Forecasting
 
+<img src="./reports/Page 1.png" alt="1" width="700" height="400">
+<img src="./reports/Page 2.png" alt="1" width="700" height="400">
+
+
 ## Introduction
 This project is a comprehensive analytical solution developed for YASA-1 LLC, aimed at optimizing business operations and enhancing decision-making capabilities. Tasked by the Smart Business Analytics team, the project focuses on three key areas: demand forecasting, seller and product analysis, and product review sentiment analysis.
 
