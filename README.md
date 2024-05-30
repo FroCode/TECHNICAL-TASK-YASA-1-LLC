@@ -51,5 +51,4 @@ A visual representation of the analysis results provided in an `report1.pbix` fi
 ## Project Structure
 - `data/`: Contains the datasets used for analysis.
 - `notebooks/`: Jupyter notebooks with the analysis and visualizations.
-- `scripts/`: Python scripts for forecasting and analysis.
 - `README.md`: Project overview and detailed explanation.
